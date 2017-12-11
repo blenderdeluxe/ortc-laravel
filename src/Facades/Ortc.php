@@ -1,6 +1,6 @@
 <?php
 
-namespace Nikapps\OrtcLaravel\Facades;
+namespace Blenderdeluxe\OrtcLaravel\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
