@@ -1,8 +1,8 @@
 <?php
 
-namespace Nikapps\OrtcLaravel\Broadcasters;
+namespace Blenderdeluxe\OrtcLaravel\Broadcasters;
 
-use Nikapps\OrtcLaravel\OrtcLaravelFactory as Ortc;
+use Blenderdeluxe\OrtcLaravel\OrtcLaravelFactory as Ortc;
 use Illuminate\Contracts\Broadcasting\Broadcaster;
 
 class OrtcBroadcaster implements Broadcaster
