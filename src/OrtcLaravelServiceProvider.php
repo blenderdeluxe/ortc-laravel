@@ -1,8 +1,8 @@
 <?php
 
-namespace Nikapps\OrtcLaravel;
+namespace Blenderdeluxe\OrtcLaravel;
 
-use Nikapps\OrtcLaravel\Broadcasters\OrtcBroadcaster;
+use Blenderdeluxe\OrtcLaravel\Broadcasters\OrtcBroadcaster;
 use Illuminate\Support\ServiceProvider;
 
 class OrtcLaravelServiceProvider extends ServiceProvider
